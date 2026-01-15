@@ -1,7 +1,7 @@
 {
-  "name": "gpsc-dental-bot",
-  "version": "7.1.0",
-  "description": "GPSC Dental Telegram Bot",
+  "name": "dental-gpsc-v1",
+  "version": "1.0.0",
+  "description": "Dental GPSC Reading Bot (Bot A)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,7 +10,6 @@
     "node": "18.x"
   },
   "dependencies": {
-    "express": "^4.18.2",
     "node-telegram-bot-api": "^0.61.0"
   }
 }
